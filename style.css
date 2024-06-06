@@ -11,6 +11,10 @@
     --roboto-mono: 'Roboto Mono', sans-serif;
 }
 
+*{
+    font-weight: 400;
+}
+
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
@@ -24,6 +28,17 @@ body{
 
 .titulo-secundario{
     font-size: 24px;
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.conteudo-senha{
+    background-color: var(--fundo-senha);
+    padding: 24px;
+    
 }
 
 
