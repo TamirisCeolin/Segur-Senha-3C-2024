@@ -42,4 +42,13 @@ body{
     margin-top: 80px;
 }
 
+#campo-senha{
+    background-color: var(--fundo-senha);
+    border: none;
+    color: var(--branco);
+    font-family: var(--roboto-mono);
+    font-size: 40px;
+}
+
+
 
